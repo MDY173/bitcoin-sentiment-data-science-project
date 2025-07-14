@@ -33,8 +33,7 @@ To uncover hidden patterns between:
 ## ✅ Requirements
 
 - To install required packages:
-```bash
-pip install -r requirements.txt
+     pip install -r requirements.txt
 
 ## ✅ Next Steps
 
